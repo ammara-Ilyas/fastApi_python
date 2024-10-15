@@ -1,3 +1,9 @@
 fastApi
 pip
 uvicorn
+sqlmodel
+db connection
+httpx
+uvicorn main:app --reload
+pip install python-jose[cryptography]
+jwt token
